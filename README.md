@@ -6,7 +6,6 @@
 
 > A smart web application that predicts laptop prices using machine learning based on hardware specifications and features.
 
-![Laptop Price Predictor Demo](https://via.placeholder.com/800x400/4a90e2/ffffff?text=Laptop+Price+Predictor+Demo)
 
 ## 🌟 Overview
 
@@ -21,25 +20,6 @@ The **Laptop Price Predictor** is an intelligent web application built with Stre
 - 🔧 **Comprehensive Inputs** - Covers all major laptop specifications (CPU, RAM, GPU, storage, display, etc.)
 - 📊 **Smart Feature Engineering** - Calculates derived metrics like PPI for enhanced accuracy
 
-## 🚀 Live Demo
-
-Try the application live: [**Laptop Price Predictor**](https://your-app-link-here.streamlit.app)
-
-## 📸 Screenshots
-
-<details>
-<summary>Click to view screenshots</summary>
-
-### Main Interface
-![Main Interface](https://via.placeholder.com/600x400/e8f4f8/2c3e50?text=Main+Interface)
-
-### Input Form
-![Input Form](https://via.placeholder.com/600x400/f8f9fa/2c3e50?text=Input+Form)
-
-### Prediction Results
-![Results](https://via.placeholder.com/600x400/e8f5e8/2c3e50?text=Prediction+Results)
-
-</details>
 
 ## 🛠️ Technology Stack
 
