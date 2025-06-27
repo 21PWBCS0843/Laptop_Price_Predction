@@ -219,7 +219,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Author**: [Haseeb Hassan](https://github.com/21PWBCS0843)
 - **Email**: haseebkhan2712002@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/haseebhassan17)
+- **LinkedIn**: [Haseeb Hassan](https://linkedin.com/in/haseebhassan17)
 - **Project Issues**: [GitHub Issues](https://github.com/yourusername/laptop-price-predictor/issues)
 
 ## ⭐ Show Your Support
