@@ -42,7 +42,7 @@ Before running this application, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/laptop-price-predictor.git
+git clone https://github.com/21PWBCS0843/Laptop_Price_Predction
 cd laptop-price-predictor
 ```
 
@@ -217,9 +217,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Author**: [Your Name](https://github.com/yourusername)
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Author**: [Haseeb Hassan](https://github.com/21PWBCS0843)
+- **Email**: haseebkhan2712002@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/haseebhassan17)
 - **Project Issues**: [GitHub Issues](https://github.com/yourusername/laptop-price-predictor/issues)
 
 ## ⭐ Show Your Support
